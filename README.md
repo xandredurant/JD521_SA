@@ -55,8 +55,8 @@ The application will prompt you to enter the number of students for each course 
 You will then be asked to input the marks for each student's formative assessments.
 After inputting the data, you can choose to display marks, mark distribution, or exit the program.
 
-## Contributing
-If you would like to contribute to this project or report issues, please follow the contributing guidelines.
-
 ## License
 This project is licensed under the [MIT License](LICENSE.txt) - see the [LICENSE.txt](LICENSE.txt) file for details.
+
+## Acknowledgments
+This project was created as part of the JD521 course.
