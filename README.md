@@ -9,26 +9,26 @@ The project is organized as follows:
 JD521_SA/
 │
 ├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   ├── com/
-│   │   │   │   ├── mycompany/
-│   │   │   │   │   ├── jd521_sa/
-│   │   │   │   │   │   ├── JD521_SA.java
-│   │   │   │   │   │   └── Student.java
+│   └── main/
+│       └── java/
+│           └── com/
+│               └── mycompany/
+│                   └── jd521_sa/
+│                       ├── JD521_SA.java
+│                       └── Student.java
 │
 ├── target/
 │   ├── classes/
-│   │   ├── com/
-│   │   │   ├── mycompany/
-│   │   │   │   ├── JD521_SA.class
-│   │   │   │   └── Student.class
-│   ├── maven-status/
-│   │   ├── maven-compiler-plugin/
-│   │   │   ├── compile/
-│   │   │   │   ├── default-compile/
-│   │   │   │   │   ├── createdFiles.lst
-│   │   │   │   │   └── inputFiles.lst
+│   │   └── com/
+│   │       └── mycompany/
+│   │           ├── JD521_SA.class
+│   │           └── Student.class
+│   └── maven-status/
+│       └── maven-compiler-plugin/
+│           └── compile/
+│               └── default-compile/
+│                   ├── createdFiles.lst
+│                   └── inputFiles.lst
 │
 pom.xml
 ```
